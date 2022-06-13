@@ -1,4 +1,4 @@
-Hi y'all!
+# Hi Y'all!
 
 I'm Aryan, CS major from Grinnell College, currently working on building tools ([Perception Package](https://github.com/Unity-Technologies/com.unity.perception)) for generating synthetic data for Computer Vision at Unity Technologies.
 Although I adore exploring different areas and paradigms of tech and software development, my comfort zone mostly lies in web development and making interactive experiences (in Unity)!
