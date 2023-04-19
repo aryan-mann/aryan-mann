@@ -1,4 +1,4 @@
-# Hey all! 👋
+> ## 🏊‍♂️ For more depth – [aryanmann.com](https://aryanmann.com) 🏊‍♀️
 
 - _Name:_ I am **Aryan Mann**
 - _Degree:_ CS @ Grinnell College <img height="12px" alt="Grinnell College logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Grinnell_College_logo.png" />
