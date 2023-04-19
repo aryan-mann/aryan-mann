@@ -1,14 +1,19 @@
-# Hi Y'all!
+# Hey all! 👋
 
-I'm Aryan, CS major from Grinnell College, currently working on building tools ([Perception Package](https://github.com/Unity-Technologies/com.unity.perception)) for generating synthetic data for Computer Vision at Unity Technologies.
-Although I adore exploring different areas and paradigms of tech and software development, my comfort zone mostly lies in web development and making interactive experiences (in Unity)!
-
-## Professional Experience
-
-| Work  | Tech Stack | Description | Link |
-| ----------- | ------------- | ------------- | -----------: |
-| **Perception** Package  | C#/.NET, Unity, HLSL  | A [Unity Toolkit](https://github.com/Unity-Technologies/com.unity.perception) to generate synthetic annotation (2D/3D Bounding Boxes, Segmentation, etc.) data such as  from simulated environments. | [Github Repo](https://github.com/Unity-Technologies/com.unity.perception) |
-| Perception **Dataset Visualizer** | Python, React | A visualization tool for synthetic data generated via the Perception package. Can selectively load large datasets (1 million+ images) and visualize data such as bounding boxes, instance segmentation, semantic segmentation, etc. | [Github Repo](https://github.com/Unity-Technologies/com.unity.cv.datasetvisualizer) |
-| Website for **Amchem Products** | Typescript, React, Next.JS | The official website of Amchem Products, a mid-cap polyurethane coatings company. | [amchemproducts.com](https://amchemproducts.com/?ref=aryan-mann) |
-| Website for **Drythane** | Typescript, React, Gatsby | The official website of Drythane, an upcoming waterproofing manufacturing enterprise. | [drythane.com](https://drythane.com/?ref=aryan-mann) |
-| Website for **Amshield Deck** | Typescript, React, Gatsby | The official website of Amshield Deck, an high quality roofing and flooring manufacturer. | [amshielddeck.com](https://amshielddeck.com/?ref=aryan-mann) |
+- _Name:_ I am **Aryan Mann**
+- _Degree:_ CS @ Grinnell College <img height="12px" alt="Grinnell College logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Grinnell_College_logo.png" />
+- _Current:_ Building tools to parse, edit, merge, 3D files using the glTF transmission format.
+- _Past:_ Worked on building [Perception Package](https://github.com/Unity-Technologies/com.unity.perception), a toolkit for generating synthetic data.
+- _Full Experience:_ 
+  - Fullstack Web Development <a href="https://amchemproducts.com">[a]</a> <a href="https://drythane.com">[b]</a> <a href="https://ourspac.es">[c]</a> <a href="https://aryanmann.com">[d]</a> <a href="https://amshielddeck.com">[e]</a>
+    1. [amchemproducts.com](https://amchemproducts.com/)
+    2. [drythane.com](https://drythane.com/)
+    3. [ourspac.es](https://ourspac.es/)
+    4. [aryanmann.com](https://aryanmann.com/)
+    5. [amshielddeck.com](https://amshielddeck.com/)
+  - Tools <a href="https://github.com/Unity-Technologies/com.unity.perception">[a]</a>
+    1. [Perception Package](https://github.com/Unity-Technologies/com.unity.perception)
+- _Interests:_ 
+  - Memory-safety, type theory, programming language theory i.e. Rust <img height="14px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" />
+  - JAMstack, SSG (Static-Site-Generation), SSR (Server-Side-Rendering)
+  - AI, Reinforcement Learning, Computer Vision
