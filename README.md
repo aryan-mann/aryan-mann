@@ -2,7 +2,7 @@
 
 - _Name:_ I am **Aryan Mann**
 - _Degree:_ CS @ Grinnell College <img height="12px" alt="Grinnell College logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Grinnell_College_logo.png" />
-- _Now_: Helping build a sick chatbot called <a href="https://coral.cohere.com/">Coral</a> over at Cohere <img height="12px" alt="Cohere logo" src="https://cohere.com/favicon.ico" />
+- _Now_: Building synthetic data over at Cohere <img height="12px" alt="Cohere logo" src="https://cohere.com/favicon.ico" />
 - _Past:_ Worked on building [Perception Package](https://github.com/Unity-Technologies/com.unity.perception), a toolkit for generating synthetic data.
 - _Full Experience:_ 
   - Fullstack Web Development <a href="https://amchemproducts.com">[a]</a> <a href="https://drythane.com">[b]</a> <a href="https://ourspac.es">[c]</a> <a href="https://aryanmann.com">[d]</a> <a href="https://amshielddeck.com">[e]</a>
